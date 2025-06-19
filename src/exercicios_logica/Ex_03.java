@@ -2,8 +2,8 @@ package exercicios_logica;
 
 import java.util.Scanner;
 
-/* 3 - Calcule a area de um retangulo de acordo com 
- * a base e altura e exiba o resultado na tela
+/* 3 - A partir dos valores da base e altura 
+ * de um triangulo, calcular e exibir sua area
  */
 
 public class Ex_03 {
