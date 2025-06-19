@@ -2,6 +2,10 @@ package exercicios_logica;
 
 import java.util.Scanner;
 
+/* 2 - Calcular e exibir a area de um quadrado, 
+ * a partir do valor de sua aresta que sera digitado
+ */
+
 public class Ex_02 {
 
 	public static void main(String[] args) {
