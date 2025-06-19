@@ -2,6 +2,10 @@ package exercicios_logica;
 
 import java.util.Scanner;
 
+/* 4 - Entrar via teclado com quatro valores
+ * calcular e exibir sua media final
+ */
+
 public class Ex_04 {
 
 	public static void main(String[] args) {
