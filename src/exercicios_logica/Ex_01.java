@@ -2,6 +2,10 @@ package exercicios_logica;
 
 import java.util.Scanner;
 
+/* 1 - Entrar via teclado com a base e a altura 
+ * de um retngulo, calcular e exibir sua area
+ */
+
 public class Ex_01 {
 
 	public static void main(String[] args) {
